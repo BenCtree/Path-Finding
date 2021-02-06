@@ -1,4 +1,4 @@
-# Three-Digit-Puzzle-Solver
+# Path-Finding
 
 A python program implementing several search algorithms to solve the three digit puzzle, in which we are given a starting three digit number and a goal three digit number and want to find a path from the start to the goal by changing one digit at a time, with certain restrictions such as forbidden numbers!
 
